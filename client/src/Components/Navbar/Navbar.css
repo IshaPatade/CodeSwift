@@ -1,0 +1,44 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+	height: 50px;
+	text-align: center;
+	color: #A78295;
+	background-color: #331D2C;
+	gap: 40px;
+}
+
+
+
+#no {
+	height: 36px;
+	width: 300px;
+	font-size: 10px;
+	color: rgb(185, 185, 185);
+	border: 1px solid #afec3f;
+	border-radius: 4px;
+	background-color: #474747;
+}
+
+#no:focus {
+	outline: none;
+}
+
+.css-2b097c-container{
+	width: 80px;
+	color: black;
+	background-color: #474747;
+}
+
+.css-yk16xz-control{
+	background-color: #474747 !important;
+	border-color: #afec3f !important;
+}
+.css-13cymwt-control{
+   padding: 0px;
+}
+
+.css-1fdsijx-ValueContainer{
+   font-size: 14px;
+}
